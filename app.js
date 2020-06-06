@@ -149,7 +149,7 @@ app.get('/bake', (request, response) => {
 
   content += '<ul>';
 
-  for(let i = 1; i <= count; i++) {
+  for (let i = 1; i <= count; i++) {
     content += `<li>${bakedGood} number ${i}</li>`;
   }
 
