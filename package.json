@@ -9,12 +9,7 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "eslint": "^8.46.0",
-    "eslint-config-standard": "^17.1.0",
-    "eslint-plugin-import": "^2.28.0",
-    "eslint-plugin-json": "^3.1.0",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.1.1",
+    "@biomejs/biome": "1.7.3",
     "jsdoc": "^4.0.2"
   },
   "scripts": {
@@ -27,10 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/jfarmer/exercises-js-express-sandbox.git"
   },
-  "keywords": [
-    "javascript",
-    "exercises"
-  ],
+  "keywords": ["javascript", "exercises"],
   "author": "Jesse Farmer <jesse@20bits.com>",
   "license": "CC-BY-SA-4.0",
   "bugs": {
